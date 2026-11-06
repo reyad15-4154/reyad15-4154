@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:58A6FF&text=ENAMUL%20ISLAM%20NOMAN&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=20&animation=fadeIn" alt="Profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Md.%20Reyadul%20Islam%20Reyad&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=20&animation=fadeIn" alt="Profile banner" />
 </div>
 
 <div align="center">
