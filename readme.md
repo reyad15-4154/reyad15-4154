@@ -38,7 +38,7 @@
     <td width="55%" valign="top">
 
 ```yaml
-name:        Enamul Islam Noman
+name:        Md. Reyadul Islam Reyad
 role:        Full-Stack Developer
 location:    Dhaka, Bangladesh 🇧🇩
 focus:       Web Apps · APIs · Cloud
